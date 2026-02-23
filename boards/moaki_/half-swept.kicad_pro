@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.25,
-          "width": 0.9
+          "drill": 1.2,
+          "height": 2.2,
+          "width": 2.2
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -629,6 +629,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "1418ad6a-8a4d-429d-b07e-469b1ffa21a0",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }
