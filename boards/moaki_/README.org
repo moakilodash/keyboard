@@ -1,0 +1,9 @@
+#+title: moaki_
+
+my first attempt at building a keyboard.
+
+~moaki_~ is a modified version of [[https://github.com/davidphilipbarr/sweep][half-swept]] revertible board.
+
+wired (using helios 0xCB microcontroller), 34-key column-stagger split
+
+will later update here with more infomration about this build, including pictures...

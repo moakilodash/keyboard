@@ -1,0 +1,7 @@
+#+title: keyboard
+
+my keyboard project collection.
+
+adding here diy keyboard builds:
+
++ [[file:boards/moaki_/README.org][moaki_]] - modified ferris sweep, wired (qmk with helios 0xCB)
