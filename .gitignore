@@ -1,0 +1,7 @@
+# kicad generated/temp files
+fp-info-cache
+*-backups/
+~*
+
+# zmk west workspace (if initialized here)
+.zmk/
